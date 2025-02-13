@@ -1,11 +1,6 @@
-# creodias-finder
+# CDSE API
 Query the [Copernicus Data Space Ecosystem (CDSE) OpenSearch service](https://documentation.dataspace.copernicus.eu/APIs/OpenSearch.html) for available
-products.
-
-**Note:**
-The name of the package (creodias-finder) comes from its heritage, when it was used to search for data stored in Creodias service. With CDSE reaching maturity it was decided to start using the Copernicus service. To download the data an [account on CDSE](https://dataspace.copernicus.eu/) is required.
-
-
+products. To download the data an [account on CDSE](https://dataspace.copernicus.eu/) is required.
 
 This is just a proof of concept, not finished, thoroughly tested or fully developed. You are still welcome to use it and also to submit pull requests fixing bugs you may find.
 
